@@ -6,7 +6,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Antoñito, antoñito mágico, ¿que lenguaje es el más guapo?");
+            Console.WriteLine("vamos a ver si cambia");
         }
     }
 }
